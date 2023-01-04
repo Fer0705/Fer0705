@@ -1,6 +1,8 @@
   <h1 align="center">Hi 👋, I'm Fer</h1>
 <h3 align="center">Full Stack Developer from Buenos Aires, Argentina</h3>
 
+*<h4>I am a person who is passionate about technology and solving problems through code. I am looking for my first job in the IT world, prepared for any challenge</h4>*
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fer0705&label=Profile%20views&color=0e75b6&style=flat" alt="fer0705" /> </p>
 
 - 🔭 I’m currently working on **reddit clone**
