@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fer0705&label=Profile%20views&color=0e75b6&style=flat" alt="fer0705" /> </p>
 
-- 🔭 I’m currently working on **reddit clone**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **javascript, react & redux**
 
